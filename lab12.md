@@ -9,3 +9,4 @@
  ![](http://a4.qpic.cn/psb?/V12GQjH33ZNTb2/9oJ1d.nHlZr1*GLqprTvSa6y*TByTKxZi3NzWYjtAsM!/m/dL8AAAAAAAAA&bo=tAC0AAAAAAARBzA!&rf=photolist)
   
   随着微信的普及，一系列自媒体也诞生，他们或许不需要什么干货，或是几个笑话，或是几句鸡汤，但是一旦有了庞大的流量，就会凭借着高昂的广告位，获得不菲的利润。
+  ![](http://a2.qpic.cn/psb?/V12GQjH33ZNTb2/mXOstvelwAVV1*Cvxynieye7rJvyQzsoMNWpHHSt8vU!/m/dLkAAAAAAAAA&bo=4QDhAAAAAAADByI!&rf=photolist)
