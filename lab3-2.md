@@ -1,39 +1,4 @@
-# a
-a
-#include<stdio.h>
-int main(){
-		int n=0;
-		scanf("%d",&n);
-		int flag=0;
-	    int result[100];
-	    for(int i=0;n!=0;i++){
-	    	result[i]=n%16;
-	    	n=n/16;
-			flag++; 
-	    	
-		}
-		int nothing;
-	for(int i=flag-1;i>=0;i--)	{
-		if(result[i]>=10){
-		  switch(result[i]){
-		  case 10:printf("A");break;
-		  case 11:printf("B");break;
-		  case 12:printf("C");break;
-		  case 13:printf("D");break;
-		  case 14:printf("E");break;
-		  case 15:printf("F");break;
-		  case 16:printf("G");break;
-		  default:;	
-		    }
-       }
-       else printf("%d",result[i]);
-	}
-	printf("\n");
-	
-		
-		
-		
-	return 0;	
-		
-	}
- 
+IR： 功能是存放当前正在执行的指令。   
+PC：功能是存放当前欲执行指令的地址，并可自动计数形成下一条指令地址。     
+ACC：全称是累加寄存器，其功能是存放运算前的操作数，并可以存放运算结果。   
+LOD #3 是直接将指令后的操作数说明符当做数值直接用作操作数； ADD W 是将指令后的操作数说明符当做地址，取出其中的数值用作操作数。 
